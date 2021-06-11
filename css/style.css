@@ -204,6 +204,8 @@ figcaption {
 .paragraph-tiny {
   font-size: 12px;
   line-height: 20px;
+  opacity: 0.8; 
+ 
 }
 
 .paragraph-bigger {
@@ -637,8 +639,7 @@ figcaption {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  opacity: 0.8; 
-}
+  }
 
 .webflow-link {
   display: -webkit-box;
